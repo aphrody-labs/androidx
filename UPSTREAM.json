@@ -1,0 +1,13 @@
+{
+  "upstreamRepo": "androidx/androidx",
+  "forkRepo": "aphrody-labs/androidx",
+  "pinnedSha": "d5fbc805813938dee07c230e7b63ddfdb7e66168",
+  "extractedAt": "2026-11-20T21:59:24.737Z",
+  "upstreamSizeBytes": 1278038016,
+  "tokenFileCount": 120,
+  "zstTokensBytes": 2801,
+  "zstTokensSha256": "97dd95d61a41226cc8911bcdd6fc38afb04324d241d805b96c9e4f2665465809",
+  "paletteCount": 91,
+  "lightRoleCount": 47,
+  "darkRoleCount": 47
+}
